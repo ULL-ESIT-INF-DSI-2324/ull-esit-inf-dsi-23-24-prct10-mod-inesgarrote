@@ -2,10 +2,12 @@ import "mocha";
 //import { expect } from "chai";
 import pkg from "chai";
 const { expect } = pkg;
-import { hola } from "../src/ejercicio-pe/hola.js";
+import {add  } from "../src/hola.js";
 
-describe("hola", () => {
-  it("should return 'Hola mundo'", () => {
-    expect(hola()).to.equal("Hola mundo");
+describe("add", () => {
+  it("should add two numbers", () => {
+    const result = add(1, 2);
+    expect(result).to.equal(4);
   });
 });
+
