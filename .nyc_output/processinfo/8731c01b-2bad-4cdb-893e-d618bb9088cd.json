@@ -1,0 +1,16 @@
+{
+  "parent": "f8e9cc4a-e803-474c-bad7-a76a3dabf6f9",
+  "pid": 8611,
+  "argv": [
+    "/home/usuario/.nvm/versions/node/v21.6.1/bin/node",
+    "/home/usuario/ull-esit-inf-dsi-23-24-prct10-mod-inesgarrote/node_modules/.bin/mocha"
+  ],
+  "execArgv": [],
+  "cwd": "/home/usuario/ull-esit-inf-dsi-23-24-prct10-mod-inesgarrote",
+  "time": 1711959558766,
+  "ppid": 8610,
+  "coverageFilename": "/home/usuario/ull-esit-inf-dsi-23-24-prct10-mod-inesgarrote/.nyc_output/8731c01b-2bad-4cdb-893e-d618bb9088cd.json",
+  "externalId": "",
+  "uuid": "8731c01b-2bad-4cdb-893e-d618bb9088cd",
+  "files": []
+}
